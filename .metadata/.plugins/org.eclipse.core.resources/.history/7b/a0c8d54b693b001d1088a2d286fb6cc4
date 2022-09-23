@@ -1,0 +1,19 @@
+package com.example.grpc.client.grpcsclient.service;
+
+import org.springframework.stereotype.Service;
+
+import io.grpc.ManagedChannel;
+import io.grpc.ManagedChannelBuilder;
+
+@Service
+public class GRPCClientService {
+
+	public String ping() {
+		ManagedChannel channel = ManagedChannelBuilder.forAddress("localhost", 8088)
+				.usePlaintext()
+				.build();
+		
+		return null;
+	}
+	
+}

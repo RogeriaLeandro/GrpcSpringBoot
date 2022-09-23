@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;grpc-server/src/main/java/com/example/grpc/server/grpcserver/protobuf/grpc-java&apos; to &apos;grpcjava&apos;" description="Rename resource &apos;grpc-java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/example/grpc/server/grpcserver/protobuf/grpc-java" name="grpcjava" stamp="1663938348050" updateReferences="true"/>
+</session>

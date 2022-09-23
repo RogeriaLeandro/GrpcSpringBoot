@@ -1,0 +1,7 @@
+spring.application.name=grpc-server
+grpc.server.port=9898
+server.port=8081
+
+grpc.server.security.enabled=true
+grpc.server.security.certificateChain=file:certificates/server.crt
+grpc.server.security.privateKey=file:certificates/server.key

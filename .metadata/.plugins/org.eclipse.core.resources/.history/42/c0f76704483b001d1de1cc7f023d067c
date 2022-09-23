@@ -1,0 +1,5 @@
+package com.example.grpc.client.grpcsclient.service;
+
+public class GRPCClientService {
+
+}

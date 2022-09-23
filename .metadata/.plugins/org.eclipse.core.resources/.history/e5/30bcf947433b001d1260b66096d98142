@@ -1,0 +1,5 @@
+package com.example.grpc.server.grpcserver.service;
+
+public class PingPongServiceImpl {
+
+}

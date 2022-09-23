@@ -1,0 +1,9 @@
+server.port=8080
+spring.application.name=grpc-client
+
+grpc.client.local-grpc-server.address=localhost:9898'
+grpc.client.local-grpc-server.enable-keep-alive=true
+grpc.client.local-grpc-server.keep-alive-without-calls=true
+grpc.client.local-grpc-server.negotiation-type=plaintext
+
+

@@ -1,0 +1,5 @@
+package com.example.grpc.client.grpcsclient.resource;
+
+public class PingPongResource {
+
+}
